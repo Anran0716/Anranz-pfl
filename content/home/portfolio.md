@@ -28,12 +28,19 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: GIS
+      tag: GIS
+    - name: Urban Planning
+      tag: UP
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Python
+      tag: py
+    - name: R programming
+      tag: R
+    - name: Javascript
+      tag: JS
+
 
 design:
   columns: '1'
