@@ -1,8 +1,8 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Spatial autocorrelation and regression of Socioeconomic factors in Philly
+summary: Conduct spatial analysis of potential influencing factors behind the income values in Philadelphia
 tags:
   - GIS
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/pdf/500HW2.pdf
 ---
