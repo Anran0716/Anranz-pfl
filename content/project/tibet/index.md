@@ -1,8 +1,9 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Lake extraction and classification in Tibet
+summary: Designed an Arcpy program, which can extract and classify the lakes in Tibet based on the DEM data. Presented as a research poster on the Undergraduate Research Day Event in NIU.
+
 tags:
   - GIS
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/pdf/Tibet.pdf
 ---
