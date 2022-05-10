@@ -31,15 +31,15 @@ content:
     - name: GIS
       tag: GIS
     - name: Urban Planning
-      tag: UP
+      tag: Urban Planning
     - name: Machine Learning
-      tag: ML
+      tag: Machine Learning
     - name: Python
-      tag: py
+      tag: Python
     - name: R programming
-      tag: R
+      tag: R programming
     - name: Javascript
-      tag: JS
+      tag: Javascript
 
 
 design:
