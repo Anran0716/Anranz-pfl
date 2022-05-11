@@ -1,8 +1,8 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Sentiment Analysis of COVID-19 Vaccination of United States
+summary: Analyzed public attitude towards COVID-19 vaccines in United States,
 tags:
   - Python
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/550final-proj/
 ---
