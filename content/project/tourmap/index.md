@@ -1,8 +1,8 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Rocky mountain national park travel map
+summary: Develop a travel app to help visitors better plan their trips
 tags:
   - Javascript
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/musa-611-final/page1-Cover-y.html
 ---
