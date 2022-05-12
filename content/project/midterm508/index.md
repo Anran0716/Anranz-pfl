@@ -1,8 +1,8 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Hedonic Home Price Prediction for Boulder
+summary: Develop regression model to predict the home price in Boulder
 tags:
   - R programming
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/pdf/BoulderHousingPrice.html#2_Data
 ---
