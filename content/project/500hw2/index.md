@@ -1,5 +1,5 @@
 ---
-title: Spatial autocorrelation and regression of Socioeconomic factors in Philly
+title: Spatial analysis of Socioeconomic factors in Philly
 summary: Conduct spatial analysis of potential influencing factors behind the income values in Philadelphia
 tags:
   - GIS
