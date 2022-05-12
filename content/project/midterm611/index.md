@@ -1,8 +1,8 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Historic winter Olympic Tour guide
+summary: A story map showing the historic winter Olympic games
 tags:
   - Javascript
 date: 2022-01-01
-external_link: https://www.mdpi.com/2220-9964/10/9/627/htm
+external_link: https://anran0716.github.io/611midterm-AnranZheng/first_page.html
 ---
