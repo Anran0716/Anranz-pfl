@@ -1,6 +1,6 @@
 ---
-title: Spatiotemporal Characteristics and Risk Factors of COVID-19 in NYS
-summary: First-author publication about exploring the spatiotemporal clustering patterns and influencing factors behind in NYS
+title: Heppro application - an overdose first-aid packets allocation tool
+summary: Designed an app which can predict Heroin overdose spatial distribution
 tags:
   - R programming
 date: 2022-01-01
